@@ -5,6 +5,9 @@ Big Two is a very popular game in the Far East, including China, Hong Kong, Indo
 
 This application:
 > Randomly mix cards
+
 > Let the user play valid combinations only (Poker combinations), through the web browser interaction.
+
 > Displays the next player time
+
 > Provides intelligent bot player
