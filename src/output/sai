@@ -1,0 +1,625 @@
+Next Player: 0
+Last player: None
+Combo: None
+[6S, 8D, 9D, 9C, 9H, 9S, TC, JC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7C, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3D, 3C, 5H, 6H, 7S, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[3S, 4C, 5D, 5C, 5S, 6D, 6C, 7D, TS, JS, QD, KD, KH]
+0 disse "6S"
+0 nao pode jogar 6S e por isso vai passar
+Next Player: 1
+Last player: None
+Combo: None
+[6S, 8D, 9D, 9C, 9H, 9S, TC, JC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7C, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3D, 3C, 5H, 6H, 7S, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[3S, 4C, 5D, 5C, 5S, 6D, 6C, 7D, TS, JS, QD, KD, KH]
+1 disse "3H"
+1 nao pode jogar 3H e por isso vai passar
+Next Player: 2
+Last player: None
+Combo: None
+[6S, 8D, 9D, 9C, 9H, 9S, TC, JC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7C, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3D, 3C, 5H, 6H, 7S, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[3S, 4C, 5D, 5C, 5S, 6D, 6C, 7D, TS, JS, QD, KD, KH]
+2 disse "3D"
+2 vai jogar "3D"
+Next Player: 3
+Last player: 2
+Combo: {3D}
+[6S, 8D, 9D, 9C, 9H, 9S, TC, JC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7C, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3C, 5H, 6H, 7S, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[3S, 4C, 5D, 5C, 5S, 6D, 6C, 7D, TS, JS, QD, KD, KH]
+3 disse "3S"
+3 vai jogar "3S"
+Next Player: 0
+Last player: 3
+Combo: {3S}
+[6S, 8D, 9D, 9C, 9H, 9S, TC, JC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7C, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3C, 5H, 6H, 7S, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, TS, JS, QD, KD, KH]
+0 disse "6S"
+0 vai jogar "6S"
+Next Player: 1
+Last player: 0
+Combo: {6S}
+[8D, 9D, 9C, 9H, 9S, TC, JC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7C, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3C, 5H, 6H, 7S, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, TS, JS, QD, KD, KH]
+1 disse "7C"
+1 vai jogar "7C"
+Next Player: 2
+Last player: 1
+Combo: {7C}
+[8D, 9D, 9C, 9H, 9S, TC, JC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3C, 5H, 6H, 7S, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, TS, JS, QD, KD, KH]
+2 disse "7S"
+2 vai jogar "7S"
+Next Player: 3
+Last player: 2
+Combo: {7S}
+[8D, 9D, 9C, 9H, 9S, TC, JC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, TS, JS, QD, KD, KH]
+3 disse "TS"
+3 vai jogar "TS"
+Next Player: 0
+Last player: 3
+Combo: {TS}
+[8D, 9D, 9C, 9H, 9S, TC, JC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KD, KH]
+0 disse "JC"
+0 vai jogar "JC"
+Next Player: 1
+Last player: 0
+Combo: {JC}
+[8D, 9D, 9C, 9H, 9S, TC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, JH, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KD, KH]
+1 disse "JH"
+1 vai jogar "JH"
+Next Player: 2
+Last player: 1
+Combo: {JH}
+[8D, 9D, 9C, 9H, 9S, TC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QH, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KD, KH]
+2 disse "QH"
+2 vai jogar "QH"
+Next Player: 3
+Last player: 2
+Combo: {QH}
+[8D, 9D, 9C, 9H, 9S, TC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KD, KH]
+3 disse "KD"
+3 vai jogar "KD"
+Next Player: 0
+Last player: 3
+Combo: {KD}
+[8D, 9D, 9C, 9H, 9S, TC, AC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+0 disse "AC"
+0 vai jogar "AC"
+Next Player: 1
+Last player: 0
+Combo: {AC}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+1 disse "PASSO"
+1 vai passar
+Next Player: 2
+Last player: 0
+Combo: {AC}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC, 2D, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+2 disse "2D"
+2 vai jogar "2D"
+Next Player: 3
+Last player: 2
+Combo: {2D}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+3 disse "PASSO"
+3 vai passar
+Next Player: 0
+Last player: 2
+Combo: {2D}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2C, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+0 disse "2C"
+0 vai jogar "2C"
+Next Player: 1
+Last player: 0
+Combo: {2C}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+1 disse "PASSO"
+1 vai passar
+Next Player: 2
+Last player: 0
+Combo: {2C}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC, 2S]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+2 disse "2S"
+2 vai jogar "2S"
+Next Player: 3
+Last player: 2
+Combo: {2S}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+3 disse "PASSO"
+3 vai passar
+Next Player: 0
+Last player: 2
+Combo: {2S}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+0 disse "PASSO"
+0 vai passar
+Next Player: 1
+Last player: 2
+Combo: {2S}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+1 disse "PASSO"
+1 vai passar
+Next Player: 2
+Last player: 2
+Combo: {2S}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[3C, 5H, 6H, TD, TH, JD, QS, KC]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+2 disse "3C"
+2 vai jogar "3C"
+Next Player: 3
+Last player: 2
+Combo: {3C}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[5H, 6H, TD, TH, JD, QS, KC]
+[4C, 5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+3 disse "4C"
+3 vai jogar "4C"
+Next Player: 0
+Last player: 3
+Combo: {4C}
+[8D, 9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[5H, 6H, TD, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+0 disse "8D"
+0 vai jogar "8D"
+Next Player: 1
+Last player: 0
+Combo: {8D}
+[9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8C, 8H, 8S, QC, KS, AD]
+[5H, 6H, TD, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+1 disse "8C"
+1 vai jogar "8C"
+Next Player: 2
+Last player: 1
+Combo: {8C}
+[9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, QC, KS, AD]
+[5H, 6H, TD, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+2 disse "TD"
+2 vai jogar "TD"
+Next Player: 3
+Last player: 2
+Combo: {TD}
+[9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, QC, KS, AD]
+[5H, 6H, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, JS, QD, KH]
+3 disse "JS"
+3 vai jogar "JS"
+Next Player: 0
+Last player: 3
+Combo: {JS}
+[9D, 9C, 9H, 9S, TC, AH, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, QC, KS, AD]
+[5H, 6H, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD, KH]
+0 disse "AH"
+0 vai jogar "AH"
+Next Player: 1
+Last player: 0
+Combo: {AH}
+[9D, 9C, 9H, 9S, TC, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, QC, KS, AD]
+[5H, 6H, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD, KH]
+1 disse "PASSO"
+1 vai passar
+Next Player: 2
+Last player: 0
+Combo: {AH}
+[9D, 9C, 9H, 9S, TC, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, QC, KS, AD]
+[5H, 6H, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD, KH]
+2 disse "PASSO"
+2 vai passar
+Next Player: 3
+Last player: 0
+Combo: {AH}
+[9D, 9C, 9H, 9S, TC, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, QC, KS, AD]
+[5H, 6H, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD, KH]
+3 disse "PASSO"
+3 vai passar
+Next Player: 0
+Last player: 0
+Combo: {AH}
+[9D, 9C, 9H, 9S, TC, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, QC, KS, AD]
+[5H, 6H, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD, KH]
+0 disse "9D"
+0 vai jogar "9D"
+Next Player: 1
+Last player: 0
+Combo: {9D}
+[9C, 9H, 9S, TC, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, QC, KS, AD]
+[5H, 6H, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD, KH]
+1 disse "QC"
+1 vai jogar "QC"
+Next Player: 2
+Last player: 1
+Combo: {QC}
+[9C, 9H, 9S, TC, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, KS, AD]
+[5H, 6H, TH, JD, QS, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD, KH]
+2 disse "QS"
+2 vai jogar "QS"
+Next Player: 3
+Last player: 2
+Combo: {QS}
+[9C, 9H, 9S, TC, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, KS, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD, KH]
+3 disse "KH"
+3 vai jogar "KH"
+Next Player: 0
+Last player: 3
+Combo: {KH}
+[9C, 9H, 9S, TC, AS, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, KS, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+0 disse "AS"
+0 vai jogar "AS"
+Next Player: 1
+Last player: 0
+Combo: {AS}
+[9C, 9H, 9S, TC, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, KS, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+1 disse "PASSO"
+1 vai passar
+Next Player: 2
+Last player: 0
+Combo: {AS}
+[9C, 9H, 9S, TC, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, KS, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+2 disse "PASSO"
+2 vai passar
+Next Player: 3
+Last player: 0
+Combo: {AS}
+[9C, 9H, 9S, TC, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, KS, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+3 disse "PASSO"
+3 vai passar
+Next Player: 0
+Last player: 0
+Combo: {AS}
+[9C, 9H, 9S, TC, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, KS, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+0 disse "9C"
+0 vai jogar "9C"
+Next Player: 1
+Last player: 0
+Combo: {9C}
+[9H, 9S, TC, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, KS, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+1 disse "KS"
+1 vai jogar "KS"
+Next Player: 2
+Last player: 1
+Combo: {KS}
+[9H, 9S, TC, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+2 disse "PASSO"
+2 vai passar
+Next Player: 3
+Last player: 1
+Combo: {KS}
+[9H, 9S, TC, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+3 disse "PASSO"
+3 vai passar
+Next Player: 0
+Last player: 1
+Combo: {KS}
+[9H, 9S, TC, 2H]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+0 disse "2H"
+0 vai jogar "2H"
+Next Player: 1
+Last player: 0
+Combo: {2H}
+[9H, 9S, TC]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+1 disse "PASSO"
+1 vai passar
+Next Player: 2
+Last player: 0
+Combo: {2H}
+[9H, 9S, TC]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+2 disse "PASSO"
+2 vai passar
+Next Player: 3
+Last player: 0
+Combo: {2H}
+[9H, 9S, TC]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+3 disse "PASSO"
+3 vai passar
+Next Player: 0
+Last player: 0
+Combo: {2H}
+[9H, 9S, TC]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+0 disse "9H"
+0 vai jogar "9H"
+Next Player: 1
+Last player: 0
+Combo: {9H}
+[9S, TC]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S, AD]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+1 disse "AD"
+1 vai jogar "AD"
+Next Player: 2
+Last player: 1
+Combo: {AD}
+[9S, TC]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+2 disse "PASSO"
+2 vai passar
+Next Player: 3
+Last player: 1
+Combo: {AD}
+[9S, TC]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+3 disse "PASSO"
+3 vai passar
+Next Player: 0
+Last player: 1
+Combo: {AD}
+[9S, TC]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+0 disse "PASSO"
+0 vai passar
+Next Player: 1
+Last player: 1
+Combo: {AD}
+[9S, TC]
+[3H, 4D, 4H, 4S, 7H, 8H, 8S]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+1 disse "3H"
+1 vai jogar "3H"
+Next Player: 2
+Last player: 1
+Combo: {3H}
+[9S, TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[5H, 6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+2 disse "5H"
+2 vai jogar "5H"
+Next Player: 3
+Last player: 2
+Combo: {5H}
+[9S, TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, TH, JD, KC]
+[5D, 5C, 5S, 6D, 6C, 7D, QD]
+3 disse "5S"
+3 vai jogar "5S"
+Next Player: 0
+Last player: 3
+Combo: {5S}
+[9S, TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, TH, JD, KC]
+[5D, 5C, 6D, 6C, 7D, QD]
+0 disse "9S"
+0 vai jogar "9S"
+Next Player: 1
+Last player: 0
+Combo: {9S}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, TH, JD, KC]
+[5D, 5C, 6D, 6C, 7D, QD]
+1 disse "PASSO"
+1 vai passar
+Next Player: 2
+Last player: 0
+Combo: {9S}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, TH, JD, KC]
+[5D, 5C, 6D, 6C, 7D, QD]
+2 disse "TH"
+2 vai jogar "TH"
+Next Player: 3
+Last player: 2
+Combo: {TH}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, JD, KC]
+[5D, 5C, 6D, 6C, 7D, QD]
+3 disse "QD"
+3 vai jogar "QD"
+Next Player: 0
+Last player: 3
+Combo: {QD}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, JD, KC]
+[5D, 5C, 6D, 6C, 7D]
+0 disse "PASSO"
+0 vai passar
+Next Player: 1
+Last player: 3
+Combo: {QD}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, JD, KC]
+[5D, 5C, 6D, 6C, 7D]
+1 disse "PASSO"
+1 vai passar
+Next Player: 2
+Last player: 3
+Combo: {QD}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, JD, KC]
+[5D, 5C, 6D, 6C, 7D]
+2 disse "KC"
+2 vai jogar "KC"
+Next Player: 3
+Last player: 2
+Combo: {KC}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, JD]
+[5D, 5C, 6D, 6C, 7D]
+3 disse "PASSO"
+3 vai passar
+Next Player: 0
+Last player: 2
+Combo: {KC}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, JD]
+[5D, 5C, 6D, 6C, 7D]
+0 disse "PASSO"
+0 vai passar
+Next Player: 1
+Last player: 2
+Combo: {KC}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, JD]
+[5D, 5C, 6D, 6C, 7D]
+1 disse "PASSO"
+1 vai passar
+Next Player: 2
+Last player: 2
+Combo: {KC}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[6H, JD]
+[5D, 5C, 6D, 6C, 7D]
+2 disse "6H"
+2 vai jogar "6H"
+Next Player: 3
+Last player: 2
+Combo: {6H}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[JD]
+[5D, 5C, 6D, 6C, 7D]
+3 disse "7D"
+3 vai jogar "7D"
+Next Player: 0
+Last player: 3
+Combo: {7D}
+[TC]
+[4D, 4H, 4S, 7H, 8H, 8S]
+[JD]
+[5D, 5C, 6D, 6C]
+0 disse "TC"
+0 vai jogar "TC"
+Jogador 1: 0
+Jogador 2: 6
+Jogador 3: 1
+Jogador 4: 4
